@@ -7,3 +7,5 @@ console.log('day-3 successful');
 // day-7: couldn not code anything, so commiting a comment 
 // day-8: working on ph b9a7 - the first react project 
 // date: 2024-03-17 working on ph b9a7 project 
+// date: 2024-03-18 worked on ph b9a7 project. 83% could be done.  
+// 
