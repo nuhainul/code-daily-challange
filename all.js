@@ -12,4 +12,4 @@ console.log('day-3 successful');
 console.log('today is 19th March of 2024. try to build a template in this repo to organize your ph learning journal.');
 console.log('today is 20th March of 2024. yet to try to build a template in this repo to organize your ph learning journal. sad');
 // 2024-03-21: 
-console.log('build a havit to check (and update if needed) the differences between local repo & inline version');
+console.log('build a havit to check (and update if needed) the differences between local repo & online version');
