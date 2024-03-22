@@ -6,8 +6,8 @@
 |  |  |  |
 |----------|----------|----------|
 | 1 | 2 | 3 |
-| [CodeDaily@GitHub]([https://](https://github.com/nuhainul/code-daily-challange)){:target="_blank"} | [CodeCademy]([https://](https://www.codecademy.com/learn)){:target="_blank"} | [DuolingoPractice]([https://](https://www.duolingo.com/learn)){:target="_blank"} |
-| [Link 2](https://){:target="_blank"} | [Link 7](https://){:target="_blank"} | [Link 12](https://){:target="_blank"} |
-| [Link 3](https://){:target="_blank"} | [Link 8](https://){:target="_blank"} | [Link 13](https://){:target="_blank"} |
-| [Link 4](https://){:target="_blank"} | [Link 9](https://){:target="_blank"} | [Link 14](https://){:target="_blank"} |
-| [Link 5](https://){:target="_blank"} | [Link 10](https://){:target="_blank"} | [Link 15](https://){:target="_blank"} |
+| [CodeDaily@GitHub]([https://](https://github.com/nuhainul/code-daily-challange)) | [CodeCademy]([https://](https://www.codecademy.com/learn)) | [DuolingoPractice]([https://](https://www.duolingo.com/learn)) |
+| [Link 2](https://) | [Link 7](https://) | [Link 12](https://) |
+| [Link 3](https://) | [Link 8](https://) | [Link 13](https://) |
+| [Link 4](https://) | [Link 9](https://) | [Link 14](https://) |
+| [Link 5](https://) | [Link 10](https://) | [Link 15](https://) |
