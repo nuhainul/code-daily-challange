@@ -6,7 +6,7 @@
 |  |  |  |
 |----------|----------|----------|
 | 1 | 2 | 3 |
-| [CodeDaily@GitHub](https://github.com/nuhainul/code-daily-challange) | [CodeCademy]([https://](https://www.codecademy.com/learn)) | [DuolingoPractice](https://www.duolingo.com/learn) |
+| [CodeDaily@GitHub](https://github.com/nuhainul/code-daily-challange) | [CodeCademy](https://www.codecademy.com/learn) | [DuolingoPractice](https://www.duolingo.com/learn) |
 | [Link 2](https://) | [Link 7](https://) | [Link 12](https://) |
 | [Link 3](https://) | [Link 8](https://) | [Link 13](https://) |
 | [Link 4](https://) | [Link 9](https://) | [Link 14](https://) |
