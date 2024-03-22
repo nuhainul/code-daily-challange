@@ -13,3 +13,5 @@ console.log('today is 19th March of 2024. try to build a template in this repo t
 console.log('today is 20th March of 2024. yet to try to build a template in this repo to organize your ph learning journal. sad');
 // 2024-03-21: 
 console.log('build a havit to check (and update if needed) the differences between local repo & online version');
+// 2024-03-22: 
+console.log('worked on https://github.com/nuhainul/code-daily-challange/blob/main/README.md');
